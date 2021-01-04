@@ -1,0 +1,42 @@
+body{
+  background-color: #a5ecd7;
+  margin: 0;
+  padding: 0;
+}
+.profile{
+  height: 350px;
+  width: 350px;
+  position: absolute;
+  right: 490px;
+  top: 150px;
+  background-color: white;
+}
+.upperpart{
+  height: 150px;
+  width: 350px;
+    background-color: #ffe3d8;
+}
+.image1{
+  height: 150px;
+  position: absolute;
+  right: 100px;
+}
+
+.lowerpart{
+  height: 250px;
+  width: 350px;
+
+}
+.name{
+  font-style: serif;
+  margin-left: 90px;
+  color: #16a596;
+}
+.image3{
+  height: 650px;
+  width:1440px;
+}
+.line1{
+  margin-left: 18px;
+    color: #ff9a8c;
+}
